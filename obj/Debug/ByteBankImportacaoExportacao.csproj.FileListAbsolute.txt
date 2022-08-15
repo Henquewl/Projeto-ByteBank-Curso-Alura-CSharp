@@ -1,0 +1,7 @@
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Henque\Documents\GitHub\Projeto-ByteBank-Curso-CSharp\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
